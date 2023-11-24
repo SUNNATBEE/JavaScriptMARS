@@ -1,0 +1,103 @@
+// Examen JavaScript Amaliy savollar 
+
+// 1-savol Arifmetik operatorla
+
+//  5 sonini 2 ga bo'ling va qoldig`ini alertga chiqaring!
+
+// javob:Pasdan yozib keting kodini
+
+
+
+
+
+// 2-savol  Math metodlari
+
+// 1 dan 10 gacha bo'lgan random son yasang va alertga chiqaring
+
+// Javob:Pasdan yozib keting kodini
+
+
+
+
+// 3-savol Math metodlari
+
+// 12.510 sonini butun songa aylantiring! 
+
+// javob: 12 chiqishi kerak!
+
+
+
+
+
+
+// 4-savol function
+
+// "MARS IT SCHOOL" sozini nechta harfdan iboratligini funksiya orqali topib va alertga chiqaring!.
+
+// Javob:Kodini yozib bering 
+
+
+
+
+
+// 5-savol for loop
+
+// "MARS IT SCHOOL" sozini javascript funksiyasi orqali 10 marta console.log ga chiqaring!
+
+// Javob:Kodini yozib bering
+
+
+
+// 6-savol Array methods
+
+// let harflar = ["a" , "b" , "d" , "e" , "f" , "g" , "h" , "i" , "j" , "k" , "l" , "m" , "n" , "o" , "p" , "q" , "r" , "s" , "t",  "u" , "v" , "x" , "y" , "z" ]
+
+// Shu arraydan foydalangan holda console.log ga o'zingizni ismigizni chiqaring
+
+// Javob:Kodini yozib bering
+
+
+
+
+// 7-savol if else
+
+// Promtdan yosh kiriting agar yoshi 18 yoshdan katta bo'lsa console da Siz balag'ot yoshiga yetgansiz , aks holda  siz balog'at yoshiga yetmagansiz  // agar yoshi 18 yoshga teng bolsa  balog'at yoshi muborak deb console da chiqarish kerak
+
+// Javob:Kodini yozib bering
+
+
+
+
+
+// 8-savol String metodlari vs Array metodlari
+
+// Promtdan ismigizni kiriting va console.log da ismigizni teskarisini chiqaring
+
+// Javob:Kodini yozib bering
+
+
+
+
+
+// 9-savol Switch case 
+
+
+// Promt 1 dan 7 gacha bo'lgan raqam kiriting va kiritilgan raqam qaysi hafta kuniga to'gri kelishini chiqarib bering
+// masalan 4 raqamini kiritsam console.log da("Siz kiritgan raqam haftaning Payshanba kuniga to'gri keladi") bo'lib chiqish kerak
+// agar kiritilgan raqam 7 dan katta bolsa ya'ni 8 yoki 15 kiritilsa console da (Namalum raqam kiritdingiz ) deb chiqish kerak
+
+
+// Javob:Kodini yozib bering
+
+
+
+
+
+// 10-savol Array metodlari
+
+// let sonlar = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// shu arraydagi juft sonlarni console ga chiqaring
+
+
+// Javob :Kodini yozib bering

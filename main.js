@@ -97,17 +97,7 @@
 
 
 
-// 9-savol Switch case 
 
-
-// Promt 1 dan 7 gacha bo'lgan raqam kiriting va kiritilgan raqam qaysi hafta kuniga to'gri kelishini chiqarib bering
-// masalan 4 raqamini kiritsam console.log da("Siz kiritgan raqam haftaning Payshanba kuniga to'gri keladi") bo'lib chiqish kerak
-// agar kiritilgan raqam 7 dan katta bolsa ya'ni 8 yoki 15 kiritilsa console da (Namalum raqam kiritdingiz ) deb chiqish kerak
-
-// ввести в промпт цифру от 1 до 7, и вывести к какому дню недели он равен, если больше 7 то сказать что такого дня нет
-
-
-// Javob:Kodini yozib bering
 
 
 

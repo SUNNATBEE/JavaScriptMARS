@@ -94,6 +94,12 @@
 // Javob:Kodini yozib bering
 
 
+// 9-savol DOM
+
+// Promtdan ismigizni kiriting va yoshingizni kiriting va uni style berilgan holda DOM ga chiqaring
+
+
+// Javob:Kodini yozib bering
 
 
 
